@@ -1,0 +1,216 @@
+GET http://today.hit.edu.cn/ HTTP/1.1
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+POST http://today.hit.edu.cn/boost/replace?callback=hit_misc.lazy_builder%3AbuildDefaultHeader&&token=hRBI6B8_mBplSk-Qq7PVQo5M5h23k7BgvZH9J8RrHXs&_wrapper_format=drupal_ajax HTTP/1.1
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Length: 946
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+POST http://today.hit.edu.cn/boost/replace?callback=Drupal%5CCore%5CRender%5CElement%5CStatusMessages%3A%3ArenderMessages&args%5B0%5D&token=8ZQLEPvbvw-igqT8-F0glHQ5WayGiW_NqDe1vZEllO0&_wrapper_format=drupal_ajax HTTP/1.1
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Length: 946
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+POST http://today.hit.edu.cn/boost/replace?callback=hit_misc.lazy_builder%3AbuildAdvertiseShow&args%5B0%5D=1&token=aYhaJVMFFKvQ5-mtspXe-f9XswVE5BVi_a1S7oXnBY8&_wrapper_format=drupal_ajax HTTP/1.1
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Length: 946
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+GET http://today.hit.edu.cn/sites/today1.prod1.dpweb1.hit.edu.cn/files/styles/355x220/public/inline-images/2018/11/02/IMG_20181101_183605.jpg?itok=BgOnAUAQ HTTP/1.1
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+GET http://today.hit.edu.cn/sites/today1.prod1.dpweb1.hit.edu.cn/files/styles/355x220/public/inline-images/2018/11/02/1_7.jpg?itok=FZDGr3Eh HTTP/1.1
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+GET http://today.hit.edu.cn/sites/today1.prod1.dpweb1.hit.edu.cn/files/styles/355x220/public/inline-images/2018/11/02/1_6.jpg?itok=bTOZ6k8u HTTP/1.1
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Fri, 02 Nov 2018 06:01:04 GMT
+If-None-Match: "11e8d-579a842b654ea"
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+POST http://today.hit.edu.cn/core/modules/statistics/statistics.php HTTP/1.1
+Accept: */*
+X-Requested-With: XMLHttpRequest
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Length: 5
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+GET http://today.hit.edu.cn/article/2018/10/30/60528 HTTP/1.1
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+GET http://static.bshare.cn/b/bshareC0.js HTTP/1.1
+Referer: http://today.hit.edu.cn/article/2018/10/30/60528
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Mon, 26 Feb 2018 07:16:51 GMT
+If-None-Match: W/"5a93b463-12eb"
+Host: static.bshare.cn
+Proxy-Connection: Keep-Alive
+
+GET http://static.bshare.cn/b/buttonLite.js HTTP/1.1
+Referer: http://today.hit.edu.cn/article/2018/10/30/60528
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Mon, 26 Feb 2018 07:16:52 GMT
+If-None-Match: W/"5a93b464-4f76"
+Host: static.bshare.cn
+Proxy-Connection: Keep-Alive
+
+GET http://today.hit.edu.cn/ HTTP/1.1
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+GET http://today.hit.edu.cn/sites/today1.prod1.dpweb1.hit.edu.cn/files/styles/355x220/public/inline-images/2018/11/02/1_7.jpg?h=52d3fcb6&itok=FZDGr3Eh HTTP/1.1
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+GET http://today.hit.edu.cn/sites/today1.prod1.dpweb1.hit.edu.cn/files/styles/355x220/public/inline-images/2018/11/02/IMG_20181101_183605.jpg?itok=BgOnAUAQ HTTP/1.1
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Fri, 02 Nov 2018 06:39:41 GMT
+If-None-Match: "108c2-579a8ccd4be2b"
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+GET http://today.hit.edu.cn/sites/today1.prod1.dpweb1.hit.edu.cn/files/styles/355x220/public/inline-images/2018/11/02/image001_0.png?itok=92pZFyZu HTTP/1.1
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+POST http://today.hit.edu.cn/boost/replace?callback=hit_misc.lazy_builder%3AbuildDefaultHeader&&token=hRBI6B8_mBplSk-Qq7PVQo5M5h23k7BgvZH9J8RrHXs&_wrapper_format=drupal_ajax HTTP/1.1
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Length: 999
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+POST http://today.hit.edu.cn/boost/replace?callback=Drupal%5CCore%5CRender%5CElement%5CStatusMessages%3A%3ArenderMessages&args%5B0%5D&token=8ZQLEPvbvw-igqT8-F0glHQ5WayGiW_NqDe1vZEllO0&_wrapper_format=drupal_ajax HTTP/1.1
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Length: 999
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+POST http://today.hit.edu.cn/boost/replace?callback=hit_misc.lazy_builder%3AbuildAdvertiseShow&args%5B0%5D=1&token=aYhaJVMFFKvQ5-mtspXe-f9XswVE5BVi_a1S7oXnBY8&_wrapper_format=drupal_ajax HTTP/1.1
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Length: 999
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+POST http://today.hit.edu.cn/core/modules/statistics/statistics.php HTTP/1.1
+Accept: */*
+X-Requested-With: XMLHttpRequest
+Referer: http://today.hit.edu.cn/
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Length: 5
+Host: today.hit.edu.cn
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+Cookie: SESS0b78b3575298f2ed94ea5549d866ad3c=9d4EC_KeeEOfLX7mdxl9zXpyM1Pe8k4CLwOrWJpphnU; _gid=GA1.3.2123768765.1541094256; _ga=GA1.3.1028959071.1541094256
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
